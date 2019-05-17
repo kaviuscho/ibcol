@@ -50,7 +50,7 @@
   "projectRecords":{
     "name":"Project Name",
     "projectCategoryKey":"Project Category",
-    "description":"Project Description",
+    "description":"One line Description of Your Project",
     "presentationFile":"Presentation",
     "presentationFileType":"Only accepts PDF/ZIP",
     "whitepaperFile":"Whitepaper",

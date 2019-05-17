@@ -1963,7 +1963,7 @@ export default class extends React.PureComponent {
                             <FormRow>
                               <FormField>
                                 {this.getLabel('projectRecords.description')}
-                                <textarea type="text" data-name="description" data-section="projectRecords" data-project-index={projectIndex} onChange={this.onRecordChange} value={_.isEmpty(projectRecord['description']) ? "" : projectRecord['description']} onFocus={this.onFieldFocused} onBlur={this.onFieldBlurred} />
+                                <input type="text" data-name="description" data-section="projectRecords" data-project-index={projectIndex} onChange={this.onRecordChange} value={_.isEmpty(projectRecord['description']) ? "" : projectRecord['description']} onFocus={this.onFieldFocused} onBlur={this.onFieldBlurred} />
                               </FormField>
                             </FormRow>
 

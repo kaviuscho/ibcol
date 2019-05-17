@@ -107,6 +107,7 @@
     "academicPartnersTitle":"Academic Partners",
     "academicPartners":[
       {"name":"Chinese University of Hong Kong, Engineering Alumni Association","url":"https://www.facebook.com/groups/cuhk.ergaa.oc/","logo":"/static/images/logo-chinese-university-of-hong-kong,-engineering-alumni-association.png"},
+      {"name":"City University of Hong Kong, College of Business","url":"https://www.cb.cityu.edu.hk/","logo":"/static/images/logo-city-university-of-hong-kong-(cityu)-college-of-business.png"},
       {"name":"Hong Kong Polytechnic University, Office of Student Development, Entrepreneurship Society (ES OSD PolyU)","url":"http://www.polyu.edu.hk/stars/co-curriculum/entrepreneurship-development/entrepreneurship-development.html","logo":"/static/images/logo-hong-kong-polytechnic-university,-office-of-student-development,-entrepreneurship-society-(es-osd-polyu).png"},
       {"name":"Moscow State University (MSU), Faculty of Law","url":"http://law.msu.ru/","logo":"/static/images/logo-moscow-state-university-(msu),-faculty-of-law.png"},
       {"name":"National Taiwan University, D-School","url":"https://dschool.ntu.edu.tw","logo":"/static/images/logo-national-taiwan-university,-d-school.png"},
